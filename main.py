@@ -8,7 +8,7 @@ Year: 2023
 
 import streamlit as st
 
-from streamlit_elements import sidebar, page_config, lerning_sources, legal_info, tools, learning_assistants, practice, music, communities
+from streamlit_elements import sidebar, page_config, lerning_sources, legal_info, tools, learning_assistants, practice, music, communities, youtube
 
 # styling
 page_config.settings()
@@ -26,11 +26,13 @@ practice.train()
 learning_assistants.tools()
 
 # communities
-
 communities.com()
 
 # tools
 tools.tools()
+
+# youtubers
+youtube.com()
 
 # music
 music.ncs()
