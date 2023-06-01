@@ -32,4 +32,4 @@ def sidebar():
     st.sidebar.markdown('13. Double-check the answers on the internet')
     st.sidebar.markdown('14. Stay curious and explore')
     st.sidebar.markdown(
-        "15. Don't ask questions on StackOverFlow. It's the worst source with toxic jobless losers who look for beginners to demoralize them. Same advice goes for Reddit.")
+        "15. Don't ask questions on StackOverFlow. It's the worst source with toxic losers who look for beginners to demoralize them. The same advice goes for Reddit.")
